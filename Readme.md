@@ -44,6 +44,6 @@ It does not rely on specific topics or genres; instead, it identifies similariti
 
 ---
 
-**Deriverables done in this repo include collaborative-filtering- based recommendor that takes a book title as input and returns a list of recommended book titles based on their past interactions or behaviors.**
+**Deriverables done in this repo include collaborative-filtering- based recommendor that takes a movie id as input and returns a list of recommended movies titles based on their past interactions or behaviors.**
 
 ---
